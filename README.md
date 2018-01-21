@@ -5,6 +5,8 @@ Currently in the planning phase. Initial thoughts:
 
 * DNA-Protein translation
 * Reverse complement DNA
+* Codon optimization
+* Rare codons analysis
 * DNA to RNA
 * Primer Tm
 * Sequence alignment
